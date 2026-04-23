@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 160ccc030d99cb84c850a9af8d177c49, type: 3}
+  m_Name: Tank1
+  m_EditorClassIdentifier: Assembly-CSharp::FuelTankPart
+  partName: FuelTank1
+  dryMass: 10
+  fuelCapacity: 50
+  visualPrefab: {fileID: 4091266171165923641, guid: d541ef899ac177c4da88c4bda50441e3, type: 3}

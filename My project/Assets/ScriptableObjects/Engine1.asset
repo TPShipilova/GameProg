@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c776e1e960875394cb6d72baac9ca263, type: 3}
+  m_Name: Engine1
+  m_EditorClassIdentifier: Assembly-CSharp::EnginePart
+  partName: Engine1
+  mass: 5
+  thrust: 25
+  fuelConsumptionRate: 4
+  visualPrefab: {fileID: 2459422033718104925, guid: ca130d61e7668f9498195e9a4f12d0ac, type: 3}
